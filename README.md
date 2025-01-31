@@ -1,5 +1,5 @@
 # Happy Quizzes ⚡
-Welcome to **Happy Quizzes**, a dynamic and interactive quiz application built with **HTML**, **Tailwind CSS**, **React** and **Local Storage**!. This app features a sleek user interface, real-time score tracking, and seamless navigation between questions. It helps users to improve their general knowledge with real time score. 
+Welcome to **Happy Quizzes**, a dynamic and interactive quiz application built with **HTML**, **Tailwind CSS**, **React** and **Local Storage**!. This app features a sleek user interface, real-time score tracking, and seamless navigation between questions. It helps users to improve their general knowledge with real time score.
 
 ## Demo Links :rocket:
 - Live Demo: [Watch Live](https://happynewquiz.netlify.app/)
